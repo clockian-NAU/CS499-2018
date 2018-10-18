@@ -2,7 +2,7 @@
 
 **GROUP ASSIGNMENT**
 
-**Deadline**: MULTIPLES
+**Deadline**: MULTIPLE
 
 **Value**: Multi-part (Total: 55%)
 
@@ -10,17 +10,19 @@ You are requested to make a significant contribution to an Open Source Software 
 
 The first step towards that end is choosing a project. There are a couple of them that I anticipate that can accomodate some of you:
 
-* [Jabref ](http://www.github.com/Jabref/Jabref) - Citation Manager. Mainly developed in Java
-* [KDE Cantor](https://edu.kde.org/cantor/) - Music Education project. Mainly developed in C++ and Qt/QML
-* [FluxPuppy](https://github.com/bnasr/FluxPuppy) - NAU developed Android (Java) software to work with Licor 820 and 840 CO2 measurement devices. The software will be of great interests to the ecology community.
-* [phenoRemote](https://github.com/katharynduffy/phenoRemote) - An Open Shiny(R) interface project that integrates Phenocam & remotely sensed data products (developer at NAU)
-
+* [Jabref ](http://www.github.com/Jabref/Jabref) - Citation Manager. Mainly developed in Java. JabRef people are enthusiastic about applying MVVM to their project. It is a good learning experience, and will certainly help the community. Use the wiki as a starting point for development. In addition there is an example on the JavaFX stuff regarding the MVVM pattern. Here [https://github.com/JabRef/jabref/wiki/Code---JavaFX]. The community is aware that you are working on this course.
+* [KDE Cantor](https://edu.kde.org/cantor/) - Music Education project. Mainly developed in C++ and Qt/QML. Filipe Saraiva is a maintainer and is aware that you are working on this
+* [FluxPuppy](https://github.com/bnasr/FluxPuppy) - NAU developed Android (Java) software to work with Licor 820 and 840 CO2 measurement devices. The software will be of great interests to the ecology community. --> [Tasks and details available here](assignments/FluxPuppy.md)
+* [phenoRemote](https://github.com/katharynduffy/phenoRemote) - An Open Shiny(R) interface project that integrates Phenocam & remotely sensed data products (developer at NAU) 
+* [qiime2](https://github.com/qiime2/qiime2) - extensible, and decentralized microbiome analysis package with a focus on data and analysis transparency. Developed in Python
+* [DeepState](https://github.com/trailofbits/deepstate) - has multiple help wanted issues, some of which might be quite suitable for an advanced undergrad.  It's a test generation tool for C and C++, GoogleTest that allows automatic test generation, basically.  Bringing security vulnerability detection tools into the unit testing/early dev cycle is the big idea.. Prof. Alex Groce is one of the main devs, so he can provide more info/help if students are interested.
+* [R packages](https://github.com/tdhock/oss-class-ideas) - Professor Toby Hocking has a lot of interesting ideas and projects that need some support. Please check his ideas page and see if you are interested in some of them.
 
 At the end of the term, it is expected that you have one or more contributions submitted, peer-evaluated (in classroom), reviewed by project members, and accepted. Here are overall steps and dates (more details to come).
 
 **EVERYTHING PRODUCED DURING THE COURSE NEED TO BE PEER-REVIEWED BY ANOTHER GROUP BEFORE THE FINAL SUBMISSION**
 
-| Step                                                        | Expected deliverable                                         | Due to  |
+| Step                                                        | Expected deliverable                                         | Due on  |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | ------- |
 | Checkpoint 0                                                | **Stand up presentation (5-7 minutes)**<br>Decision about project and plan on steps towards contribution | Oct. 9  |
 | Checkpoint 1                                                | **Presentation<br>**\* Present the task(s) details + progress report<br>* First impressions/guidelines availability<br>* Architectural analysis of the software (document) | Oct. 25 |
